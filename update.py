@@ -23,7 +23,8 @@ templat = {'2800-10': '10222',
            '3000-24': '13145',
            '2850-28': '10330',
            '2910-52': '10221',
-           '3000-26': '14104'}
+           '3000-26': '14104',
+           '1210-28': '14367'}
 
 # Spliting string into list with 3 strings
 for x in range(1, len(iplist)):
@@ -57,3 +58,4 @@ for x in range(1, len(iplist)):
 # QTECH QSW2850-28T    =    10330
 # DLINK DGS3000-24T    =    13145
 # DLINK DGS3000-26T    =    14104
+# DLINK DGS1210-28ME   =    14367
